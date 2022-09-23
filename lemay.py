@@ -28,6 +28,8 @@ def inputstr():
 def ping():
     return 'Test Page'
 
+
+#Code © by Jasmeet Singh
 if __name__ == '__main__':
     #Initialize Tokenizer
     nlp = pipeline('ner', model=model, tokenizer=tokenizer, aggregation_strategy="simple")
