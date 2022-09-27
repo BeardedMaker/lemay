@@ -10,6 +10,6 @@ i. http://jmoonmaker.space/public/access-nextcloud-server-on-odroid-hc1-from-any
 
 ii. http://jmoonmaker.space/public/install-opencv-and-tensorflow-on-odroid-c2/
 
-For Task 1 video answers, check Task1 directory
+For Task 1 video answers, check https://drive.google.com/file/d/1nMg5pDKEqhp2Xe30_hvB1il5zRNce8LH/view?usp=sharing
 
 For Task 3 EDA check Task3.ipynb 
