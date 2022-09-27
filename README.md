@@ -12,4 +12,4 @@ ii. http://jmoonmaker.space/public/install-opencv-and-tensorflow-on-odroid-c2/
 
 For Task 1 video answers, check Task1 directory
 
-For Task 3 EDA check Task 3 directory
+For Task 3 EDA check Task3.ipynb 
